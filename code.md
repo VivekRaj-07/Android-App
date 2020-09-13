@@ -195,7 +195,7 @@
         android:text="=" />
 
 
-# maimActivity.java File
+# mainActivity.java File
 package com.example.mycalculator;
 
 import android.os.Bundle;
