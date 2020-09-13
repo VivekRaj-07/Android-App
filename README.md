@@ -1,2 +1,0 @@
-# Android-App
-Simple Calculator
